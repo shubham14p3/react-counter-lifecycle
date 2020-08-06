@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
+# Counter Life Cylce
 > One paragraph statement about the project.
 
 ![screenshot](./app_screenshot.png)
